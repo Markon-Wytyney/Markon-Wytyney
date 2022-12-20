@@ -1,6 +1,6 @@
 - 👋 Oi, Sou @Markon-Wytyney
 - 👀 Interessado em Cloud e DevOps
-- - 🌱  Atualmente estou estudando sobre, Cloud em especial Azure.
+- 🌱 Atualmente estou estudando sobre, Cloud em especial Azure.
 - 💞️ Procuro colaborar em Projetos e automação  DevOps
 - 📫 Como chegar até mim...  markondepaula@gmail.com
 
